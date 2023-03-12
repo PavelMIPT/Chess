@@ -1,1 +1,1 @@
-# Chess
+# Chess project on c++
